@@ -1,0 +1,1 @@
+k,r=gets.split.map &:to_i;p (1..9).find{|i|k*i%10<1||k*i%10==r}

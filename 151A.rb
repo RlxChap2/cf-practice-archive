@@ -1,0 +1,1 @@
+n,k,l,c,d,p,N,P=gets.split.map &:to_i;p ([k*l/N,p/P,c*d].min)/n
