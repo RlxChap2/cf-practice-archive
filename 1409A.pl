@@ -1,0 +1,1 @@
+<>;($n,$k)=split,print+abs($n-$k)/10+.9|0,$/for<>

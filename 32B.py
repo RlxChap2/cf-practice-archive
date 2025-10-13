@@ -1,0 +1,1 @@
+r=str.replace;print(r(r(r(input(),'--','2'),'-.','1'),'.','0'))

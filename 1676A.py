@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:a,b,c,d,e,f,_=map(ord,s);print('YNEOS'[a+b+c!=d+e+f::2])

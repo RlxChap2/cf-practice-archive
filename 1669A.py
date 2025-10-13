@@ -1,0 +1,1 @@
+for n in[*open(0)][1:]:r=int(n)/100;print('Division',1+(r<19)+(r<16)+(r<14))

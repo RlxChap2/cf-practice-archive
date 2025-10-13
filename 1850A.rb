@@ -1,0 +1,1 @@
+gets;puts$<.map{(s=_1.split.map &:to_i).sum-s.min>9?:YES:"NO"}

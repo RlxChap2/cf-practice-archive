@@ -1,0 +1,1 @@
+gets;puts$<.map{a=gets.split.map(&:to_i)|[];(a.max-a.min<a.size)?:YES:'NO'}

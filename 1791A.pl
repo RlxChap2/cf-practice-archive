@@ -1,0 +1,1 @@
+<>;print tr/cdfores//?YES:NO,$/for<>
