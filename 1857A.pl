@@ -1,0 +1,1 @@
+<>;print+eval(<>=~s/ /+/gr)&1?NO:YES,$/while<>

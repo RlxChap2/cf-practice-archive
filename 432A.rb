@@ -1,0 +1,1 @@
+i=->{gets.split.map &:to_i};_,k=i[];p i[].count{|x|x<6-k}/3
