@@ -1,0 +1,1 @@
+n,m=gets.split.map(&:to_i);puts m==[*n+1..m].find{2**_1%_1==2}?:YES:"NO"

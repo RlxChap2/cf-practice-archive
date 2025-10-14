@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:a,b,c=map(int,s.split());print('NSPOTENAAEIK R'[(a<b<c)+2*(a<b>c)::3])

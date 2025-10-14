@@ -1,0 +1,1 @@
+<>;print+(join'',sort split//,<>)eq"\nTimru"?YES:NO,$/while<>

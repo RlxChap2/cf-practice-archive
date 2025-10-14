@@ -1,0 +1,1 @@
+<>;print$/,10-($_^"codeforces")=~tr/\0//for<>

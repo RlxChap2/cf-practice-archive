@@ -1,0 +1,1 @@
+<>;for(<>){s/ /-/;$%+=eval()<=>0}print+("Friendship is magic!^^","Mishka","Chris")[$%<=>0]

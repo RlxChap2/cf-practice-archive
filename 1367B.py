@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:a=[int(x)%2for x in s.split()];print((sum(i%2^x for i,x in enumerate(a))//2,-1)[sum(a)!=len(a)//2])

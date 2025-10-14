@@ -1,0 +1,1 @@
+a=gets.split.map &:to_i;p gets.chars.map{a[_1.to_i-1]}.sum-a[3]

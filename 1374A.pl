@@ -1,0 +1,1 @@
+<>;($a,$b,$c)=split,print$c-($c-$b)%$a,$/for<>

@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:print(max(map(len,s[::2].split('1'))))
