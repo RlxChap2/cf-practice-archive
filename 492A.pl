@@ -1,0 +1,1 @@
+$j=$y=<>*6;$y-=1while$y**3-$y>$j;print$y-1

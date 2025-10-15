@@ -1,0 +1,1 @@
+gets;$<.map{a=gets.split.map(&:to_i).sort;a[0]+=1;p a.reduce(:*)}
