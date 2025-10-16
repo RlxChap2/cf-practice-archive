@@ -1,0 +1,1 @@
+gets;puts$<.map{a=gets.count'1';a%2>0||a<$_.size%4?:NO:'YES'}

@@ -1,0 +1,1 @@
+gets;$<.map{a=gets.split.map &:to_i;p a.sum-a.min*a.size}
