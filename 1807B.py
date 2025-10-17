@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:print('YNEOS'[sum(x*(x%2*2-1)for x in map(int,s.split()))>=0::2])

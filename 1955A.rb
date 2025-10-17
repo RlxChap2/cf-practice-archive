@@ -1,0 +1,1 @@
+gets;$<.map{a,w,o=_1.split.map &:to_i;p a/2*[2*w,o].min+a%2*w}

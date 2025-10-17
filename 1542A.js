@@ -1,0 +1,1 @@
+r=readline;for(r();n=r();print(i-n?'no':'yes'))i=0,r().split(" ").map(x=>i+=x&1)

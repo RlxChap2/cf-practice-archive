@@ -1,0 +1,1 @@
+for a in[*open(0)][1:]:print(a[-2::-1].translate(''.maketrans('pq','qp')))

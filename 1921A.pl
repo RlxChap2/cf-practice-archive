@@ -1,0 +1,1 @@
+<>;while(<>){$x=<>;s/ /-+$x-+/;$z=0;map$z|=(eval)**2,split/ /;<>;<>;print$z,$/;}

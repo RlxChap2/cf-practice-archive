@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:*a,=map(int,s.split());exec("a.sort();a[0]+=1;"*5);a,b,c=a;print(a*b*c)
