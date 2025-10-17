@@ -1,0 +1,1 @@
+gets;puts$<.map{_1.split.minmax}

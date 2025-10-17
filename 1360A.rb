@@ -1,0 +1,1 @@
+gets;$<.map{a=_1.split.map &:to_i;p [*a,a.min*2].max**2}

@@ -1,0 +1,1 @@
+gets;puts$<.map{a=_1.split.map &:to_i;a[..1].max+a[2..].max<a.sort[2..].sum ? :NO:'YES'}
