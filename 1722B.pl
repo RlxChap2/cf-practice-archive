@@ -1,0 +1,1 @@
+<>;print<>=~s/G/B/gr ne<>=~s/G/B/gr?NO:YES,$/while<>

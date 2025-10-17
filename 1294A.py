@@ -1,0 +1,1 @@
+exec(int(input())*"a=*map(int,input().split()),;s=sum(a);print('YNEOS'[s%-3|s-3*max(a[:3])<0::2]);")

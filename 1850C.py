@@ -1,0 +1,1 @@
+for _ in' '*int(input()):print(*[input().strip('.')for i in' '*8],sep='')

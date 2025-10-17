@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:t=sum(map(int,s.split()));print('YNEOS'[int(t**.5)**2<t::2])

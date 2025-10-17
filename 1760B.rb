@@ -1,0 +1,1 @@
+gets;$<.map{p gets.chars.max.ord-96}

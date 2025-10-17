@@ -1,0 +1,1 @@
+<>;print s/..$/i/r for<>

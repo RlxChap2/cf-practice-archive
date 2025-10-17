@@ -1,0 +1,1 @@
+for a in[*open(0)][2::2]:b=sorted(map(int,a.split()));print(min([m-n for n,m in zip(b,b[1:])]))

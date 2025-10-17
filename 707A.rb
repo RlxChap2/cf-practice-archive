@@ -1,0 +1,1 @@
+puts$<.read=~/(C|M|Y)/?"#Color":"#Black&White"
