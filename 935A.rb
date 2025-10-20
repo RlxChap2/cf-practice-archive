@@ -1,0 +1,1 @@
+p (1...n=gets.to_i).count{n%_1<1}

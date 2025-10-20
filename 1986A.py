@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:x,y,z=sorted(map(int,s.split()));print(z-x)

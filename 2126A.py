@@ -1,0 +1,1 @@
+for*s,_ in[*open(0)][1:]:print(min(s))

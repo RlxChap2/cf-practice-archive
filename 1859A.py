@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:a=sorted(s.split(),key=int);print(*([-1],[l:=a.index(a[-1]),len(a)-l]+a)[l>0])

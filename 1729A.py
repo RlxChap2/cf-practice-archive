@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:a,b,c=map(int,s.split());c+=abs(b-c);print((a<=c)+2*(a>=c))

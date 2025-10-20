@@ -1,0 +1,1 @@
+gets.to_i.times{a=gets.split[1].to_i;b=gets;p'ABCDEFG'.chars.map{|c|[0,a-b.count(c)].max}.sum}

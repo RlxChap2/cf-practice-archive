@@ -1,0 +1,1 @@
+gets;puts$<.map{d=gets.split;c=d.uniq;a=d.tally;e=a[c[0]]-a[c[-1]];~1<e&&e<2&&c.size<3?:YES:"NO"}

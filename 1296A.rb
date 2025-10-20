@@ -1,0 +1,1 @@
+gets;puts$<.map{s=gets.split.map{|s|s.to_i%2}.sum;n=_1.to_i;0<s&&s<n+n%2?:YES:'NO'}
