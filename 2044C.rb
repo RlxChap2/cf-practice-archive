@@ -1,0 +1,1 @@
+gets;$<.map{m,a,b,c=_1.split.map &:to_i;d=[a,m].min+[b,m].min;p d+[c,2*m-d].min}

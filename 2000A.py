@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:print('YNEOS'[s[:2]>'10'or'1 '>s[2:]::2])

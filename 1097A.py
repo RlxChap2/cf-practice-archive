@@ -1,0 +1,1 @@
+print('YNEOS'[not({*input()}&{*input()})::2])
