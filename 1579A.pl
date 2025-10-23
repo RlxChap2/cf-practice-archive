@@ -1,0 +1,1 @@
+<>;print 2*tr/B//!=y///c-1?NO:YES,$/for<>

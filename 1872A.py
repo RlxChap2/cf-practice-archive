@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:a,b,c=map(int,s.split());print(0--abs(a-b)//2//c)

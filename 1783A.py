@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:*a,l=s.split();print(*(['NO'],['YES',l]+a)[l!=a[0]])

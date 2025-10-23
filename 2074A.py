@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:print("YNEOS"[len({*s.split()})>1::2])
