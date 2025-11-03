@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:n,k,x=map(int,s.split());x=1+(x<2);print(*(['YES',n//x]+[x]*(n//x-1)+[x+n%x],['NO'])[k<x+n%x])

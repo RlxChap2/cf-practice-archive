@@ -1,0 +1,1 @@
+for n in[*open(0)][1:]:print(*([r:=int(t:=int(n)**.5),0],[-1])[r<t])

@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:a=[int(x)%2for x in s.split()];print('NYOE S'[len({*a[::2]})<2>len({*a[1::2]})::2])
