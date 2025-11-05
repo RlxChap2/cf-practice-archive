@@ -1,0 +1,1 @@
+<>;print$_%4?NO:YES,$/for<>

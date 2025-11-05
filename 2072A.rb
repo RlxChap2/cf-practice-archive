@@ -1,0 +1,1 @@
+gets;$<.map{n,m,k=_1.split.map &:to_i;r=-m.abs/k;p -r**(-r<=n ?1:0)}

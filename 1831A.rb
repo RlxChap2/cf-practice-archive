@@ -1,0 +1,1 @@
+gets;puts$<.map{|s|gets.split.map{s.to_i+1-_1.to_i}}

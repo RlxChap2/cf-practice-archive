@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:print(+any(a==b for a,b in zip(s,s[1:]))or~-len(s))

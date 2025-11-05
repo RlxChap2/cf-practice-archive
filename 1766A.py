@@ -1,0 +1,1 @@
+for x,*r in[*open(0)][1:]:print(9*len(r)-9+int(x))

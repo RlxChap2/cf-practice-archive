@@ -1,0 +1,1 @@
+gets;puts$<.map{gets.split.uniq}
