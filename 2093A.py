@@ -1,0 +1,1 @@
+for n in[*open(0)][1:]:print("NYOE S"[int(n)%2::2])
